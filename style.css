@@ -1,0 +1,60 @@
+body{
+  margin: 20px;
+}
+h1, .A, .B {
+  color: rgb(80, 80, 82);
+  display: block;
+  font-family: "Google Sans", arial, sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  height: 26px;
+  line-height: 26px;
+  text-align: right;
+  width: 326px;
+  margin: 10px;
+  text-align: right;
+  
+  margin: 0;
+}
+.A, .B {
+font-family: arial, sans-serif;
+font-size: 16px;
+font-weight: 400;
+height: 20px;
+padding:0 0 70px 0;
+}
+
+li {
+  list-style-type: none; 
+ }
+ ul {
+  margin-left: 0; 
+  padding-left: 0; 
+ }
+ .container {
+   border: 1px solid #badde1;
+   padding: 50 px 0 0;
+   margin: 50 px;
+ }
+ .temp {
+  color: rgb(94, 95, 97);
+  display: inline;
+  font-family: "Google Sans", arial, sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  height: auto;
+  letter-spacing: normal;
+  line-height: 60px;
+  width: auto;
+ 
+ }
+ .btn-group{
+  display: block;
+  float: left;
+  border-bottom: solid;
+  text-align: right;
+  color: rgb(94, 95, 97);
+  padding: 0 0 20px 0;
+ }
+ 
+ 
